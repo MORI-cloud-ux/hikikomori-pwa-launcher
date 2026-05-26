@@ -1,0 +1,24 @@
+{
+"short_name": "相談AI",
+"name": "不登校・ひきこもり相談AIエージェント",
+"description": "不登校やひきこもりに関する悩みに寄り添い、家庭での関わり方や次の一歩を一緒に考えるAI相談アプリです。",
+"start_url": "./index.html",
+"scope": "./",
+"display": "standalone",
+"background_color": "#ffffff",
+"theme_color": "#a5d6a7",
+"orientation": "portrait",
+"lang": "ja",
+"icons": [
+{
+"src": "./icon-192.png",
+"sizes": "192x192",
+"type": "image/png"
+},
+{
+"src": "./icon-512.png",
+"sizes": "512x512",
+"type": "image/png"
+}
+]
+}
